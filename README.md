@@ -1,4 +1,7 @@
 # DataScienceApps
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/javzapata/DataScienceApps/master)
+
 Interactive web-based learning applications for data science courses. 
 The apps illustrate fundamental statistics concepts through dynamic visualizations for undergraduate coursework at UC Santa Barbara.
 
