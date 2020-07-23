@@ -11,6 +11,7 @@ install.packages('Stat2Data')
 </code></pre>
 
 ## Confidence Intervals App
+![Confidence Intervals App](https://github.com/javzapata/fgm/raw/master/poster%20FGM.png)
 Run: 
 <pre><code>
 library(shiny)
