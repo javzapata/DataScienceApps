@@ -27,6 +27,7 @@ runGitHub("DataScienceApps", "javzapata", subdir = "Hypothesis Testing//")
 </code></pre>
 
 ## Law of Large Numbers App
+![Law of Large Numbers App](https://github.com/javzapata/DataScienceApps/blob/master/screenshots/screenshots_law_of_large_numbers.png)
 Run: 
 <pre><code>
 library(shiny)
@@ -34,13 +35,15 @@ runGitHub("DataScienceApps", "javzapata", subdir = "LLN//")
 </code></pre>
 
 ## Real Life Gaussian Data
+![Real Life Gaussian Data](https://github.com/javzapata/DataScienceApps/blob/master/screenshots/screenshots_real_life_gaussian.png)
 Run: 
 <pre><code>
 library(shiny)
 runGitHub("DataScienceApps", "javzapata", subdir = "Real Life Gaussian Data//")
 </code></pre>
 
-## Regression
+## Regression App
+![Regression App](https://github.com/javzapata/DataScienceApps/blob/master/screenshots/screenshots_regression.png)
 Run: 
 <pre><code>
 library(shiny)
