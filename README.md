@@ -11,6 +11,7 @@ install.packages('Stat2Data')
 </code></pre>
 
 ## Confidence Intervals App
+![Confidence Intervals App](https://github.com/javzapata/DataScienceApps/blob/master/screenshots/screenshots_Confidence%20Intervals.png)
 Run: 
 <pre><code>
 library(shiny)
