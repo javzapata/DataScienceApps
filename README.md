@@ -19,6 +19,7 @@ runGitHub("DataScienceApps", "javzapata", subdir = "Confidence Intervals//")
 </code></pre>
 
 ## Hypothesis Testing App
+![Hypothesis Testing App](https://github.com/javzapata/DataScienceApps/blob/master/screenshots/screenshot_hypothesis_testing.png)
 Run: 
 <pre><code>
 library(shiny)
