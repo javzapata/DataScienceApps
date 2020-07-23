@@ -1,5 +1,6 @@
 # DataScienceApps
 Interactive web-based learning applications for data science courses. 
+The apps illustrate fundamental statistics concepts through dynamic visualizations for undergraduate coursework at UC Santa Barbara.
 
 Be sure to install the following R packages shinydashboard, shinydashboardPlus, Stat2Data
 
